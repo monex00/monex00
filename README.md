@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hello, I'm Simone Multari
 
-<!--
-**monex00/monex00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 AI Student | 🏫 Based in Torino | 🪙 Exploring Blockchain on Solana
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌆 Proudly located in Torino, Italy, I'm a dedicated AI student with a passion for technology and innovation.
+- 🤖 I'm on a journey to explore the frontiers of Artificial Intelligence and dive deep into the exciting world of blockchain, with a special focus on the Solana ecosystem.
+
+## Interests
+
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 📰 Natural Language Processing
+- 👁️ Computer Vision
+- 🔗 Blockchain Technology
+- 💼 Smart Contracts
+- 💰 Decentralized Finance (DeFi)
+- ☀️ Solana Ecosystem
+
+## What I'm Up To
+
+- 🎓 Currently, I'm actively pursuing my AI studies in Torino, constantly learning and experimenting with the latest AI techniques and technologies.
+- 💡 In my free time, I'm working on innovative projects that bridge the gap between AI and blockchain, specifically on the Solana network.
+
+## Let's Connect
+
+- 🌟 I'm always open to meaningful collaborations and discussions. If you share my passion for AI and blockchain, don't hesitate to reach out. Let's explore exciting opportunities together.
+
+## 🚀 Keep innovating, keep learning, and keep coding! 🤓
+
