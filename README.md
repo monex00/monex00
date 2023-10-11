@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Simone Multari
 
-👨‍💻 AI Student | 🏫 Based in Torino | 🪙 Exploring Blockchain on Solana
+👨‍💻 AI Student | 🏫 Based in Torino | ⛓️ Exploring Blockchain on Solana
 
 ## About Me
 
