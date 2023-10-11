@@ -26,7 +26,7 @@
 ## Let's Connect
 
 - 🌟 I'm always open to meaningful collaborations and discussions. If you share my passion for AI and blockchain, don't hesitate to reach out. Let's explore exciting opportunities together.
-- 📧 You can reach me at [your.email@example.com](mailto:simone.multari00@gmail.com).
+- 📧 You can reach me [sending me email](mailto:simone.multari00@gmail.com).
 
 
 ## 🚀 Keep innovating, keep learning, and keep coding! 🤓
