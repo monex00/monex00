@@ -1,29 +1,31 @@
 # 👋 Hello, I'm Simone Multari
 
-👨‍💻 AI Student | 🏫 Based in Torino | ⛓️ Exploring Blockchain on Solana
+👨‍💻 Back-End & AI/ML Engineer | 📍 Torino | ⛓️ Solana Enthusiast
 
 ## About Me
+- Based in Torino, Italy. I specialize in **back-end development**, building reliable, scalable, and secure systems.  
+- Experienced in **AI/ML engineering** and **blockchain (Solana)**, with a focus on bridging data-driven intelligence and decentralized infrastructures.  
+- Recently finished my studies and now focused full-time on delivering production-grade systems.
 
-- 🌆 Proudly located in Torino, Italy, I'm a dedicated AI student with a passion for technology and innovation.
-- 🤖 I'm on a journey to explore the frontiers of Artificial Intelligence and dive deep into the exciting world of blockchain, with a special focus on the Solana ecosystem.
+## Focus Areas
+- 🖥️ Back-End Engineering · REST/gRPC APIs · Microservices · Cloud Architectures  
+- 🧠 Machine Learning · 🤖 Deep Learning · 📰 NLP · 👁️ Computer Vision  
+- 🔗 Blockchain (Solana) · 💼 Smart Contracts · 💰 DeFi
 
-## Interests
+## What I’m Working On
+- Designing and shipping robust **back-end services** (microservices, event-driven systems, APIs).  
+- Developing AI features (from **data pipelines** to **inference APIs**).  
+- Building on **Solana** (programs with Anchor, on-chain/off-chain integrations, tooling).  
+- Exploring architectures that blend **AI**, **blockchain**, and **scalable back-end systems**.  
 
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 📰 Natural Language Processing
-- 👁️ Computer Vision
-- 🔗 Blockchain Technology
-- 💼 Smart Contracts
-- 💰 Decentralized Finance (DeFi)
-- ☀️ Solana Ecosystem
+## Skills (snapshot)
+- **Back-End:** Java, Python, TypeScript/JavaScript, SQL  
+- **Frameworks:** Spring Boot, FastAPI, Express.js  
+- **AI:** PyTorch, TensorFlow, Transformers, OpenAI APIs, vector DBs  
+- **Data/Infra:** PostgreSQL, MySQL, Redis, Kafka, gRPC  
+- **Cloud/DevOps:** Docker, Kubernetes, GitHub Actions, AWS (S3/Lambda/ECS), CI/CD  
+- **Solana:** Rust, Anchor, SPL tokens, PDAs, off-chain indexers  
 
-## What I'm Up To
-
-- 🎓 Currently, I'm actively pursuing my AI studies in Torino, constantly learning and experimenting with the latest AI techniques and technologies.
-- 💡 In my free time, I'm working on innovative projects that bridge the gap between AI and blockchain, specifically on the Solana network.
-
-## Let's Connect
-
-- 🌟 I'm always open to meaningful collaborations and discussions. If you share my passion for AI and blockchain, don't hesitate to reach out. Let's explore exciting opportunities together.
-- 📧 You can reach me [sending an email](mailto:simone.multari00@gmail.com).
+## Let’s Connect
+- Open to collaborations on **back-end systems**, **AI products**, and **Solana-based protocols**.  
+- 📧 [simone.multari00@gmail.com](mailto:simone.multari00@gmail.com)
