@@ -1,31 +1,37 @@
 # 👋 Hello, I'm Simone Multari
 
-👨‍💻 Back-End & AI/ML Engineer | 📍 Torino | ⛓️ Solana Enthusiast
+AI/ML and software engineer. Based in Cuneo, Italy.
 
-## About Me
-- Based in Torino, Italy. I specialize in **back-end development**, building reliable, scalable, and secure systems.  
-- Experienced in **AI/ML engineering** and **blockchain (Solana)**, with a focus on bridging data-driven intelligence and decentralized infrastructures.  
-- Recently finished my studies and now focused full-time on delivering production-grade systems.
+## About
+I work across machine learning and systems programming: from model design and
+evaluation to the low-level code that makes things run fast and reliably.
+I also have hands-on experience in back-end development and blockchain data.
+I like problems where the math and the engineering both matter.
 
-## Focus Areas
-- 🖥️ Back-End Engineering · REST/gRPC APIs · Microservices · Cloud Architectures  
-- 🧠 Machine Learning · 🤖 Deep Learning · 📰 NLP · 👁️ Computer Vision  
-- 🔗 Blockchain (Solana) · 💼 Smart Contracts · 💰 DeFi
+## Interests
+- Machine learning: deep learning, NLP, learning-based approaches to classical problems
+- Systems and performance: C, CUDA, IPC, Unix process management
+- Back-end and web: APIs, services, full-stack applications
+- Blockchain: Solana, on-chain data tracking
+- Applied AI: retrieval, evaluation, LLM-based tooling
+- Computational math and simulation
 
-## What I’m Working On
-- Designing and shipping robust **back-end services** (microservices, event-driven systems, APIs).  
-- Developing AI features (from **data pipelines** to **inference APIs**).  
-- Building on **Solana** (programs with Anchor, on-chain/off-chain integrations, tooling).  
-- Exploring architectures that blend **AI**, **blockchain**, and **scalable back-end systems**.  
+## Projects
+- [swarm-escape](https://github.com/monex00/swarm-escape) - input-ablation study of predator confusion in a 2D swarm, with CMA-ES and a frozen evaluation protocol
+- [parallelized-clustering-algorithm](https://github.com/monex00/parallelized-clustering-algorithm) - CUDA implementation of a Gaussian Mixture Model
+- [golden-angle](https://github.com/monex00/golden-angle) - 3D golden-angle phyllotaxis with interactive parameters and the number theory behind the angle
 
-## Skills (snapshot)
-- **Back-End:** Java, Python, TypeScript/JavaScript, SQL  
-- **Frameworks:** Spring Boot, FastAPI, Express.js  
-- **AI:** PyTorch, TensorFlow, Transformers, OpenAI APIs, vector DBs  
-- **Data/Infra:** PostgreSQL, MySQL, Redis, Kafka, gRPC  
-- **Cloud/DevOps:** Docker, Kubernetes, GitHub Actions, AWS (S3/Lambda/ECS), CI/CD  
-- **Solana:** Rust, Anchor, SPL tokens, PDAs, off-chain indexers  
+## Stack
+- Languages: Python, Java, C, CUDA, JavaScript/TypeScript
+- Back-end and web: Express.js, Next.js
+- ML: PyTorch
+- Blockchain: Solana (data tracking)
 
-## Let’s Connect
-- Open to collaborations on **back-end systems**, **AI products**, and **Solana-based protocols**.  
-- 📧 [simone.multari00@gmail.com](mailto:simone.multari00@gmail.com)
+## Education
+- MSc Computer Science (AI curriculum), University of Turin.
+  Thesis: function inversion via machine learning.
+- BSc Computer Science, University of Turin.
+  Thesis: NFT tracking on the Solana blockchain.
+
+## Contact
+simone.multari00@gmail.com
