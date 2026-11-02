@@ -8,6 +8,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: nagare
+  cancel-in-progress: false
 jobs:
   draw:
     runs-on: ubuntu-latest
@@ -22,4 +25,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add nagare/nagare.svg
           git diff --cached --quiet || git commit -m "Redraw nagare"
+          git pull --rebase -q
           git push
