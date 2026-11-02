@@ -2,6 +2,8 @@
 
 AI/ML and software engineer. Based in Cuneo, Italy.
 
+<img src="nagare/nagare.svg" width="100%" alt="My last year of GitHub activity drawn as an ink river" />
+
 ## About
 I work across machine learning and systems programming: from model design and
 evaluation to the low-level code that makes things run fast and reliably.
@@ -19,6 +21,7 @@ I like problems where the math and the engineering both matter.
 ## Projects
 - [swarm-escape](https://github.com/monex00/swarm-escape) - input-ablation study of predator confusion in a 2D swarm, with CMA-ES and a frozen evaluation protocol
 - [parallelized-clustering-algorithm](https://github.com/monex00/parallelized-clustering-algorithm) - CUDA implementation of a Gaussian Mixture Model
+- [nagare](https://github.com/monex00/nagare) - a year of GitHub activity drawn as an ink river, one current per project; the image above is redrawn every night
 - [golden-angle](https://github.com/monex00/golden-angle) - 3D golden-angle phyllotaxis with interactive parameters and the number theory behind the angle
 
 ## Stack
